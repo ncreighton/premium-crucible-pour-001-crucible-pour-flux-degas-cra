@@ -1,0 +1,2 @@
+# premium-crucible-pour-001-crucible-pour-flux-degas-cra
+Tired of losing track of crucible pour variables, flux ratios, and degassing cycles across scattered notes and spreadsheets? The Crucible Pour &amp; Flux Degas Craft Lab is your centralized Notion command center for precision metalcasting and jewelry work.  This template eliminates guesswork by organizing every crucible pour session, flux mixture, and
